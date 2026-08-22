@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-_ I am a Software Engineering Student at Addis Ababa Institute of Technology, Addis Ababa University.
+_ I am a Software Engineering Graduate from Addis Ababa University with some industry internship experience. 
 - 🔭 I’m currently working on ... cpp and smtp-focused projects
 - 🌱 I’m currently learning ... multi-threading, Unix programming, 
 - 👯 I’m willing to collaborate on ... optimizing SQL databases, building cool system-level projects...
